@@ -1,0 +1,632 @@
+[
+  {
+    "name": "Afganistan",
+    "code": 4,
+    "population": 5
+  },
+  {
+    "name": "Albaania",
+    "code": 8,
+    "population": 2
+  },
+  {
+    "name": "Ameerika Гњhendriigid",
+    "code": 840,
+    "population": 3913
+  },
+  {
+    "name": "Andorra",
+    "code": 20,
+    "population": 1
+  },
+  {
+    "name": "Angola",
+    "code": 24,
+    "population": 1
+  },
+  {
+    "name": "Araabia Гњhendemiraadid",
+    "code": 784,
+    "population": 49
+  },
+  {
+    "name": "Argentina",
+    "code": 32,
+    "population": 147
+  },
+  {
+    "name": "Armeenia",
+    "code": 51,
+    "population": 23
+  },
+  {
+    "name": "AserbaidЕѕaan",
+    "code": 31,
+    "population": 8
+  },
+  {
+    "name": "Austraalia",
+    "code": 36,
+    "population": 2661
+  },
+  {
+    "name": "Austria",
+    "code": 40,
+    "population": 283
+  },
+  {
+    "name": "Bahrein",
+    "code": 48,
+    "population": 4
+  },
+  {
+    "name": "Belgia",
+    "code": 56,
+    "population": 522
+  },
+  {
+    "name": "Belize",
+    "code": 84,
+    "population": 2
+  },
+  {
+    "name": "Bermuda (Gbr)",
+    "code": 60,
+    "population": 4
+  },
+  {
+    "name": "Boliivia",
+    "code": 68,
+    "population": 3
+  },
+  {
+    "name": "Bosnia ja Hertsegoviina",
+    "code": 70,
+    "population": 1
+  },
+  {
+    "name": "Brasiilia",
+    "code": 76,
+    "population": 582
+  },
+  {
+    "name": "Brunei Darussalam",
+    "code": 96,
+    "population": 1
+  },
+  {
+    "name": "Bulgaaria",
+    "code": 100,
+    "population": 39
+  },
+  {
+    "name": "Colombia (Kolumbia)",
+    "code": 170,
+    "population": 8
+  },
+  {
+    "name": "Costa Rica",
+    "code": 188,
+    "population": 3
+  },
+  {
+    "name": "Dominikaani Vabariik",
+    "code": 214,
+    "population": 3
+  },
+  {
+    "name": "Ecuador",
+    "code": 218,
+    "population": 7
+  },
+  {
+    "name": "Eesti",
+    "code": 233,
+    "population": 1120642
+  },
+  {
+    "name": "Egiptus",
+    "code": 818,
+    "population": 20
+  },
+  {
+    "name": "FidЕѕi",
+    "code": 242,
+    "population": 2
+  },
+  {
+    "name": "Filipiinid",
+    "code": 608,
+    "population": 9
+  },
+  {
+    "name": "Ghana",
+    "code": 288,
+    "population": 1
+  },
+  {
+    "name": "Gibraltar (Gbr)",
+    "code": 292,
+    "population": 1
+  },
+  {
+    "name": "Gruusia",
+    "code": 268,
+    "population": 56
+  },
+  {
+    "name": "Guatemala",
+    "code": 320,
+    "population": 5
+  },
+  {
+    "name": "Hiina",
+    "code": 156,
+    "population": 32
+  },
+  {
+    "name": "Hispaania",
+    "code": 724,
+    "population": 719
+  },
+  {
+    "name": "Holland",
+    "code": 528,
+    "population": 650
+  },
+  {
+    "name": "Honduras",
+    "code": 340,
+    "population": 42
+  },
+  {
+    "name": "Hongkong (Chn)",
+    "code": 344,
+    "population": 13
+  },
+  {
+    "name": "Horvaatia",
+    "code": 191,
+    "population": 13
+  },
+  {
+    "name": "Iirimaa",
+    "code": 372,
+    "population": 2277
+  },
+  {
+    "name": "Iisrael",
+    "code": 376,
+    "population": 579
+  },
+  {
+    "name": "India",
+    "code": 356,
+    "population": 22
+  },
+  {
+    "name": "Indoneesia",
+    "code": 360,
+    "population": 11
+  },
+  {
+    "name": "Iraak",
+    "code": 368,
+    "population": 9
+  },
+  {
+    "name": "Iraan",
+    "code": 364,
+    "population": 1
+  },
+  {
+    "name": "Island",
+    "code": 352,
+    "population": 48
+  },
+  {
+    "name": "Itaalia",
+    "code": 380,
+    "population": 541
+  },
+  {
+    "name": "Jaapan",
+    "code": 392,
+    "population": 57
+  },
+  {
+    "name": "Jersey (Gbr)",
+    "code": 832,
+    "population": 3
+  },
+  {
+    "name": "Jordaania",
+    "code": 400,
+    "population": 1
+  },
+  {
+    "name": "Kaimanisaared (Gbr)",
+    "code": 136,
+    "population": 1
+  },
+  {
+    "name": "KambodЕѕa",
+    "code": 116,
+    "population": 1
+  },
+  {
+    "name": "Kamerun",
+    "code": 120,
+    "population": 3
+  },
+  {
+    "name": "Kanada",
+    "code": 124,
+    "population": 3075
+  },
+  {
+    "name": "Kasahstan",
+    "code": 398,
+    "population": 18
+  },
+  {
+    "name": "Katar",
+    "code": 634,
+    "population": 5
+  },
+  {
+    "name": "Kenya",
+    "code": 404,
+    "population": 4
+  },
+  {
+    "name": "Kongo DV",
+    "code": 178,
+    "population": 1
+  },
+  {
+    "name": "Korea Vabariik",
+    "code": 410,
+    "population": 3
+  },
+  {
+    "name": "Kosovo",
+    "code": "",
+    "population": 1
+  },
+  {
+    "name": "Kreeka",
+    "code": 300,
+    "population": 61
+  },
+  {
+    "name": "Kuveit",
+    "code": 414,
+    "population": 1
+  },
+  {
+    "name": "KГµrgГµzstan",
+    "code": 417,
+    "population": 5
+  },
+  {
+    "name": "KГјpros",
+    "code": 196,
+    "population": 105
+  },
+  {
+    "name": "Leedu",
+    "code": 440,
+    "population": 218
+  },
+  {
+    "name": "Liechtenstein",
+    "code": 438,
+    "population": 1
+  },
+  {
+    "name": "Liibanon",
+    "code": 422,
+    "population": 6
+  },
+  {
+    "name": "LiibГјa",
+    "code": 434,
+    "population": 1
+  },
+  {
+    "name": "Luksemburg",
+    "code": 442,
+    "population": 239
+  },
+  {
+    "name": "LГ¤ti",
+    "code": 428,
+    "population": 715
+  },
+  {
+    "name": "LГµuna-Aafrika Vabariik",
+    "code": 710,
+    "population": 64
+  },
+  {
+    "name": "Malaisia",
+    "code": 458,
+    "population": 10
+  },
+  {
+    "name": "Mali",
+    "code": 466,
+    "population": 3
+  },
+  {
+    "name": "Malta",
+    "code": 470,
+    "population": 25
+  },
+  {
+    "name": "Mehhiko",
+    "code": 484,
+    "population": 18
+  },
+  {
+    "name": "Moldova",
+    "code": 498,
+    "population": 39
+  },
+  {
+    "name": "Monaco",
+    "code": 492,
+    "population": 25
+  },
+  {
+    "name": "Montenegro",
+    "code": 499,
+    "population": 2
+  },
+  {
+    "name": "MГ¤Г¤ramata",
+    "code": "",
+    "population": 1
+  },
+  {
+    "name": "Namiibia",
+    "code": 516,
+    "population": 3
+  },
+  {
+    "name": "Nigeeria",
+    "code": 566,
+    "population": 9
+  },
+  {
+    "name": "Norra",
+    "code": 578,
+    "population": 1148
+  },
+  {
+    "name": "Omaan",
+    "code": 512,
+    "population": 6
+  },
+  {
+    "name": "Pakistan",
+    "code": 586,
+    "population": 1
+  },
+  {
+    "name": "Palestiina",
+    "code": 275,
+    "population": 9
+  },
+  {
+    "name": "Panama",
+    "code": 591,
+    "population": 4
+  },
+  {
+    "name": "Peruu",
+    "code": 604,
+    "population": 10
+  },
+  {
+    "name": "Poola",
+    "code": 616,
+    "population": 53
+  },
+  {
+    "name": "Portugal",
+    "code": 620,
+    "population": 90
+  },
+  {
+    "name": "Prantsusmaa",
+    "code": 250,
+    "population": 687
+  },
+  {
+    "name": "Rootsi",
+    "code": 752,
+    "population": 4503
+  },
+  {
+    "name": "Rumeenia",
+    "code": 642,
+    "population": 5
+  },
+  {
+    "name": "RГ©union (Fra)",
+    "code": 638,
+    "population": 1
+  },
+  {
+    "name": "Saksamaa",
+    "code": 276,
+    "population": 4506
+  },
+  {
+    "name": "Saudi Araabia",
+    "code": 682,
+    "population": 10
+  },
+  {
+    "name": "Senegal",
+    "code": 686,
+    "population": 2
+  },
+  {
+    "name": "Serbia",
+    "code": 688,
+    "population": 4
+  },
+  {
+    "name": "Singapur",
+    "code": 702,
+    "population": 24
+  },
+  {
+    "name": "Slovakkia",
+    "code": 703,
+    "population": 18
+  },
+  {
+    "name": "Sloveenia",
+    "code": 705,
+    "population": 15
+  },
+  {
+    "name": "Somaalia",
+    "code": 706,
+    "population": 1
+  },
+  {
+    "name": "Soome",
+    "code": 246,
+    "population": 50865
+  },
+  {
+    "name": "Suurbritannia",
+    "code": 826,
+    "population": 8105
+  },
+  {
+    "name": "Svalbard ja Jan Mayen (Nor)",
+    "code": 744,
+    "population": 1
+  },
+  {
+    "name": "SГјГјria",
+    "code": 760,
+    "population": 1
+  },
+  {
+    "name": "Taani",
+    "code": 208,
+    "population": 583
+  },
+  {
+    "name": "Tai",
+    "code": 764,
+    "population": 25
+  },
+  {
+    "name": "Taiwan (Chn)",
+    "code": 158,
+    "population": 10
+  },
+  {
+    "name": "Tansaania",
+    "code": 834,
+    "population": 1
+  },
+  {
+    "name": "Tonga",
+    "code": 776,
+    "population": 1
+  },
+  {
+    "name": "TГјrgi",
+    "code": 792,
+    "population": 60
+  },
+  {
+    "name": "TЕЎehhi",
+    "code": 203,
+    "population": 99
+  },
+  {
+    "name": "TЕЎiili",
+    "code": 152,
+    "population": 6
+  },
+  {
+    "name": "Ukraina",
+    "code": 804,
+    "population": 483
+  },
+  {
+    "name": "Ungari",
+    "code": 348,
+    "population": 57
+  },
+  {
+    "name": "Uruguay",
+    "code": 858,
+    "population": 1
+  },
+  {
+    "name": "Usa Neitsisaared (Usa)",
+    "code": 92,
+    "population": 1
+  },
+  {
+    "name": "Usbekistan",
+    "code": 860,
+    "population": 4
+  },
+  {
+    "name": "Uus-Meremaa",
+    "code": 554,
+    "population": 140
+  },
+  {
+    "name": "Valgevene",
+    "code": 112,
+    "population": 178
+  },
+  {
+    "name": "Vanuatu",
+    "code": 548,
+    "population": 2
+  },
+  {
+    "name": "Venemaa",
+    "code": 643,
+    "population": 17044
+  },
+  {
+    "name": "Venezuela",
+    "code": 862,
+    "population": 250
+  },
+  {
+    "name": "Vietnam",
+    "code": 704,
+    "population": 9
+  },
+  {
+    "name": "Wallis ja Futuna (Fra)",
+    "code": 876,
+    "population": 1
+  },
+  {
+    "name": "Гњhendriikide Hajasaared (Usa)",
+    "code": 581,
+    "population": 4
+  },
+  {
+    "name": "Е veits",
+    "code": 756,
+    "population": 450
+  }
+]

@@ -1,0 +1,273 @@
+text {
+    stroke: white;
+    stroke-width: 2px;
+    paint-order: stroke;
+}
+.f1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.f2 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.headers {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+#graphic {
+    margin-top: 20px;
+    float: right;
+    display: relative;
+}
+#graphic1 {
+    float: right;
+    margin-top: 30px;
+    overflow-y: scroll;
+    height: 300px;
+}
+body {
+    font-family: "Arial", sans-serif;
+    margin: none;
+    padding: none;
+}
+.bbar {
+    fill: rgb(86, 125, 139);
+}
+.axis {
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    display: none;
+}
+
+.label {
+    font-size: 13px;
+    font-weight: 600;
+}
+label {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 100;
+}
+h3 {
+    text-align: center;
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 100;
+}
+#map {
+    margin-top: 100px;
+    width: 700px;
+    height: 350px;
+    border: 2px solid silver;
+    box-shadow: 0 0 20px silver;
+}
+.cnt-main-container {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+}
+.charts {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: auto;
+
+}
+.info {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+#dot1 {
+    width: 10px;
+    height: 10px;
+    background: rgb(160, 209, 157);
+    display: inline-block;
+    border-radius: 25px;
+    box-shadow: 0 0 20px rgb(160, 209, 157);
+}
+label {
+    margin-left: 3px;
+    margin-top: -3px;
+    margin-right: 5px;
+}
+#dot2 {
+    width: 10px;
+    height: 10px;
+    background: rgb(240, 149, 164);
+    display: inline-block;
+    border-radius: 25px;
+    box-shadow: 0 0 20px rgb(240, 149, 164);
+}
+
+#dot3 {
+    background-color: rgb(181, 174, 175);
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    border-radius: 25px;
+    box-shadow: 0 0 20px rgb(181, 174, 175);
+}
+.t1 {
+    color: red;
+}
+.texts {
+    display: flex;
+    flex-direction: row;
+}
+.texts p {
+    width: 200px;
+    font-size: 14px;
+}
+.mybar {
+    margin: 15px 5px 10px;
+    width: 600px;
+    height: 15px;
+    box-shadow: 0 0 10px black;
+    background: linear-gradient(to right, rgb(171, 209, 224) 0%, rgb(51, 80, 92) 100%);
+}
+@media only screen and (max-width: 600px) {
+    .mybar-container{
+        margin-top:50px;
+    }
+    .mybar{
+        width:300px;
+    }
+    .my-text-box-container{
+        margin-left:-30px;
+    }
+  } 
+.mybar-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 700px;
+}
+#c1 {
+    font-size: 14px;
+}
+#c2 {
+    font-size: 14px;
+}
+#c3 {
+    font-size: 14px;
+    float: left;
+    margin-right: 20px;
+    margin-left: 30px;
+}
+#country {
+    height: 20px;
+    margin-top: 10px;
+
+}
+.map-container {
+    display: flex;
+    flex-direction: column;
+}
+.my-text-box-container {
+    display: flex;
+    flex-direction: row;
+}
+.my-text-box-container input {
+    height: 18px;
+    cursor: text;
+    outline: none;
+    border: 1px solid rgb(197, 197, 197);
+    margin-top: 10px;
+    float: left;
+    width: 270px;
+}
+.cnt {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.main {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Tooltip CSS */
+.d3-tip {
+    line-height: 1.5;
+    font-weight: 400;
+    font-family: "avenir next", Arial, sans-serif;
+    padding: 6px;
+    background: rgba(0, 0, 0, 0.6);
+    color: #FFA500;
+    border-radius: 1px;
+    pointer-events: none;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+    box-sizing: border-box;
+    display: inline;
+    font-size: 8px;
+    width: 100%;
+    line-height: 1.5;
+    color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    pointer-events: none;
+}
+/* Northward tooltips */
+.d3-tip.n:after {
+    content: "\25BC";
+    margin: -1px 0 0;
+    top: 100%;
+    left: 0;
+    text-align: center;
+}
+/* Eastward tooltips */
+.d3-tip.e:after {
+    content: "\25C0";
+    margin: -4px 0 0;
+    top: 50%;
+    left: -8px;
+}
+
+/* Southward tooltips */
+.d3-tip.s:after {
+    content: "\25B2";
+    margin: 0 0 1px;
+    top: -8px;
+    left: 0;
+    text-align: center;
+}
+
+/* Westward tooltips */
+.d3-tip.w:after {
+    content: "\25B6";
+    margin: -4px 0 0 -1px;
+    top: 50%;
+    left: 100%;
+}
+@media only screen and (max-width: 1100) {
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.cnt-main-container{
+    display:flex;
+    flex-direction: row;
+}
+.cnt{
+    display:flex;
+    flex-direction: column;
+}
+}
